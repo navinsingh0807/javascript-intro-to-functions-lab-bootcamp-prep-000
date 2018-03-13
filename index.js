@@ -28,3 +28,10 @@ function sayHiToGrandma(string){
 }
   
   
+shout(hello)
+whisper(HELLO)
+logShout("Hi how r you!")
+logWhisper("Hi How d you do")
+sayHiToGrandma("I love India")
+sayHiToGrandma("I LOVE INDIA")
+sayHiToGrandma("i love india")
